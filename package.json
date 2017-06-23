@@ -1,0 +1,17 @@
+{
+  "name": "eircode",
+  "version": "1.0.0",
+  "description": "Simple Node.js validation for Eircodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eircode",
+    "Node.js",
+    "Postcodes",
+    "Irish"
+  ],
+  "author": "Rob Gleeson <robbie.gleeson@gmail.com> (http://robbiegleeson.github.io/)",
+  "license": "ISC"
+}
