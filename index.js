@@ -1,6 +1,6 @@
 'use strict';
 const config = require('./config.js');
-const regex =  new RegExp(/^[a-zA-Z][0-9][a-zA-Z][0-9]{0,1}/);
+const regex =  new RegExp(/^[0-9AC-FHKNPRTV-Y]{4}$/);
 var error;
 
 module.exports = function eircode(eircode) {
